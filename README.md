@@ -65,12 +65,6 @@ The **68-point facial landmark model** (Dlib) maps the geometry of both eyes. Th
 - A working webcam
 - pip
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/AnupamKumar01/Driver-Drowsiness-detection-system.git
-cd Driver-Drowsiness-detection-system
-```
 
 ### 2. Install Dependencies
 
