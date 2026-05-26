@@ -124,24 +124,11 @@ Dlib's 68-point shape predictor runs at **~30ms per frame on CPU** — making it
 
 ---
 
-## 🗺 Roadmap
 
-- [ ] Package as a standalone executable (PyInstaller)
-- [ ] Add head pose estimation for distracted driving detection
-- [ ] Integrate with Raspberry Pi for embedded dashcam deployment
-- [ ] Add logging with timestamp and alert history export (CSV)
-- [ ] Build a Flask web dashboard for fleet monitoring
-- [ ] Replace Haar Cascade with MTCNN for better low-light face detection
-- [ ] Train a custom EAR model on diverse ethnicity datasets to reduce bias
 
 ---
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/your-feature`
-3. Commit your changes: `git commit -m 'feat: describe your change'`
-4. Push and open a Pull Request
 
 ---
 
